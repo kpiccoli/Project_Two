@@ -1,0 +1,2 @@
+SELECT *
+FROM inc5000;
