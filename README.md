@@ -14,4 +14,4 @@ Provide Data Analysis about Companies ranked in the year 2019.
 ### Description
 1. Extract and transform data using Python.
 2. Export and load data to PostgreSQL
-3. Performance Analysis and Visualization in Tableu
+3. Performance Analysis and Visualization in Tableau
