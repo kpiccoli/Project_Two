@@ -1,6 +1,6 @@
 ## TABLEAU - DATA ANALYSIS
 
-![Inc5000_Images](.gif)
+![Inc5000_Images](Inc5000.gif)
 
 ### Background
 Inc. 5000 is a magazine publication that rank the most fastest-growing privately held Companies in America, according to percentage revenue growth by the year.
