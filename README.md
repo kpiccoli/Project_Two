@@ -22,4 +22,8 @@ Inc. 5000 is a magazine publication that rank the most fastest-growing privately
 ### Description
 1. Extract and transform data using Python.
 2. Export and load data to PostgreSQL
+<<<<<<< HEAD
 3. Performance Analysis and Visualization in Tableu
+=======
+3. Performance Analysis and Visualization in Tableau
+>>>>>>> b53950fdd5c615918d4c6aa90ebf82a6303afd4d
